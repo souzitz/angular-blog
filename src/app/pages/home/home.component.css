@@ -1,0 +1,11 @@
+.articles__others {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
